@@ -4,6 +4,7 @@ layout: post
 description:
 comments: true
 categories: [Book Summaries]
+title: A Summary on Atomic Habits
 ---
 
 <!---
