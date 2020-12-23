@@ -1,4 +1,5 @@
 ---
+toc: true
 layout: post
 description:
 comments: true
