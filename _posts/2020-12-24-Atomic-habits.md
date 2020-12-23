@@ -7,7 +7,9 @@ categories: [Book Summaries]
 title: A Summary of Atomic Habits
 ---
 
-# CHAPTERS
+<!---
+-- # CHAPTERS
+-->
 
 I have been wanting to read this book for quite sometime now, and after seeing plenty of tweets from people across the spectrum on twitter raving about how it has changed their lifestyle, i finally spent sometime reading this book. 
 
