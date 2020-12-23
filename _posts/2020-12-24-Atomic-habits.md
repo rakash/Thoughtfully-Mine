@@ -1,10 +1,9 @@
 ---
-toc: true
+toc: false
 layout: post
 description:
 comments: true
 categories: [Book Summaries]
-title: A Summary of Atomic Habits
 ---
 
 <!---
