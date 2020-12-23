@@ -8,6 +8,10 @@ title: A Summary of Atomic Habits
 
 # CHAPTERS
 
+I have been wanting to read this book for quite sometime now, and after seeing plenty of tweets from people across the spectrum on twitter raving about how it has changed their lifestyle, i finally spent sometime reading this book. 
+
+The following are the main takeaways from this, for me: 
+
 ## Basic setup
 
 Jekyll requires blog post files to be named according to the following format:
