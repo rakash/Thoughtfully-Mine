@@ -1,11 +1,12 @@
 ---
 toc: true
 layout: post
-description: A minimal example of using markdown with fastpages.
-categories: [markdown]
-title: An Example Markdown Post
+description:
+categories: [Book Summaries]
+title: A Summary of Atomic Habits - By James Clear
 ---
-# Example Markdown Post
+
+# CHAPTERS
 
 ## Basic setup
 
