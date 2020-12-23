@@ -3,7 +3,7 @@ toc: true
 layout: post
 description:
 categories: [Book Summaries]
-title: A Summary of Atomic Habits - By James Clear
+title: A Summary of Atomic Habits
 ---
 
 # CHAPTERS
