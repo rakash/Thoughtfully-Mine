@@ -11,12 +11,12 @@ title: A Summary on Atomic Habits
 -- # CHAPTERS
 -->
 
-![]({{ site.baseurl }}/images/logo.png "Cover of the Book")
+![]({{ site.baseurl }}/images/Atomic_Habits-2.png "Cover of the Book")
 
 
 I have been wanting to read this book for quite sometime now, and after seeing plenty of good reviews from people on twitter raving about how it has changed their lifestyle, I finally spent sometime reading this book. 
 
-The following were the main takeaways for me from this from this Book;
+The following were the main takeaways for me from this Book;
 
 ## Chapter 1:
 
@@ -36,45 +36,6 @@ The following were the main takeaways for me from this from this Book;
 
 
 
-## Code
-
-You can format text and code per usual 
-
-General preformatted text:
-
-    # Do a thing
-    do_thing()
-
-Python code and output:
-
-```python
-# Prints '2'
-print(1+1)
-```
-
-    2
-
-Formatting text as shell commands:
-
-```shell
-echo "hello world"
-./some_script.sh --option "value"
-wget https://example.com/cat_photo1.png
-```
-
-Formatting text as YAML:
-
-```yaml
-key: value
-- another_key: "another value"
-```
-
-
-## Tables
-
-| Column 1 | Column 2 |
-|-|-|
-| A thing | Another thing |
 
 
 ## Tweetcards
