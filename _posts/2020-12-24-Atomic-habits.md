@@ -120,6 +120,34 @@ The following were the main takeaways for me from this Book;
   - Prime your environment to make future actions easier.
 
 
+### Chapter 13 - How to Stop Procrastinating by Using the Two-Minute Rule
+
+  - Habits can be completed in a few seconds but continue to impact your behavior for minutes or hours afterward.
+  - Many habits occur at decisive moments—choices that are like a fork in the road—and either send you in the direction of a productive day or an unproductive one.
+  - The Two-Minute Rule states, “When you start a new habit, it should take less than two minutes to do.”
+  - The more you ritualize the beginning of a process, the more likely it becomes that you can slip into the state of deep focus that is required to do great things.
+  - Standardize before you optimize. You can’t improve a habit that doesn’t exist.
+
+
+### Chapter 14 - How to Make Good Habits Inevitable and Bad Habits Impossible
+  
+  - A commitment device is a choice you make in the present that locks in better behavior in the future.
+  - The ultimate way to lock in future behavior is to automate your habits.
+  - Onetime choices—like buying a better mattress or enrolling in an automatic savings plan—are single actions that automate your future habits and deliver increasing returns over time.
+  - Using technology to automate your habits is the most reliable and effective way to guarantee the right behavior.
+
+
+### Chapter 15 - The Cardinal Rule of Behaviour Change
+
+  - We are more likely to repeat a behavior when the experience is satisfying.
+  - The human brain evolved to prioritize immediate rewards over delayed rewards.
+  - The Cardinal Rule of Behavior Change: What is immediately rewarded is repeated. What is immediately punished is avoided.
+  - To get a habit to stick you need to feel immediately successful— even if it’s in a small way.
+  - The first three laws of behavior change—make it obvious, make it attractive, and make it easy—increase the odds that a behavior will be performed this time. The fourth law of behavior change —make it satisfying—increases the odds that a behavior will be repeated next time.
+
+
+### Chapter 16 - How to Stick with Good Habits Every Day
+
 
 
 ## Tweetcards
