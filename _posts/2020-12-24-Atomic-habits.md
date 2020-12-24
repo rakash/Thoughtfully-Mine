@@ -148,6 +148,29 @@ The following were the main takeaways for me from this Book;
 
 ### Chapter 16 - How to Stick with Good Habits Every Day
 
+  - One of the most satisfying feelings is the feeling of making progress.
+  - A habit tracker is a simple way to measure whether you did a habit—like marking an X on a calendar.
+  - Habit trackers and other visual forms of measurement can make your habits satisfying by providing clear evidence of your progress.
+  - Don’t break the chain. Try to keep your habit streak alive. 
+  - Never miss twice. If you miss one day, try to get back on track as quickly as possible.
+  - Just because you can measure something doesn’t mean it’s the most important thing.
+
+
+### Chapter 17 - How an Accountability Partner Can Change Everything
+
+  - We are less likely to repeat a bad habit if it is painful or unsatisfying.
+  - An accountability partner can create an immediate cost to inaction. We care deeply about what others think of us, and we do not want others to have a lesser opinion of us.
+  - A habit contract can be used to add a social cost to any behavior. It makes the costs of violating your promises public and painful.
+  - Knowing that someone else is watching you can be a powerful motivator.
+
+
+### Chapter 18 - The Truth About Talent (When Genes Matter and When They Don’t)
+
+  - The secret to maximizing your odds of success is to choose the right field of competition.
+  - Pick the right habit and progress is easy. Pick the wrong habit and life is a struggle.
+  - Genes cannot be easily changed, which means they provide a powerful advantage in favorable circumstances and a serious disadvantage in unfavorable circumstances.
+  - Habits are easier when they align with your natural abilities. Choose the habits that best suit you. Play a game that favors your strengths. If you can’t find a game that favors you, create one.
+  - Genes do not eliminate the need for hard work. They clarify it. They tell us what to work hard on.
 
 
 ## Tweetcards
