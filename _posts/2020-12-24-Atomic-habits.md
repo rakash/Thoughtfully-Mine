@@ -3,7 +3,7 @@ toc: false
 layout: post
 description:
 comments: true
-categories: [Book Summaries]
+categories: [Book Reviews]
 title: A Summary on Atomic Habits
 ---
 
@@ -16,7 +16,8 @@ title: A Summary on Atomic Habits
 
 I have been wanting to read this book for quite sometime now, and after seeing plenty of good reviews from people on twitter raving about how it has changed their lifestyle, I finally spent sometime reading this book. 
 
-The following were the main takeaways for me from this Book;
+The following were the main points from this Book. There is no substitute to physically holding a book and reading it fully and I'd always prefer that than just reading the summary.
+
 
 ### Chapter 1 - The Surprising Power of Atomic Habits
 
@@ -201,4 +202,3 @@ It’s remarkable what you can build if you just don’t stop. It’s remarkable
 Signing off with a tweet from the Author himself
 
 {% twitter https://twitter.com/JamesClear/status/1341968580280266754 %}
-
