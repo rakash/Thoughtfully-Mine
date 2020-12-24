@@ -173,7 +173,32 @@ The following were the main takeaways for me from this Book;
   - Genes do not eliminate the need for hard work. They clarify it. They tell us what to work hard on.
 
 
-## Tweetcards
+### Chapter 19 - The Goldilocks Rule: How to Stay Motivated in Life and Work
 
-{% twitter https://twitter.com/jakevdp/status/1204765621767901185?s=20 %}
+  - The Goldilocks Rule states that humans experience peak motivation when working on tasks that are right on the edge of their current abilities.
+  - The greatest threat to success is not failure but boredom.
+  - As habits become routine, they become less interesting and less satisfying. We get bored.
+  - Anyone can work hard when they feel motivated. It’s the ability to keep going when work isn’t exciting that makes the difference.
+  - Professionals stick to the schedule; amateurs let life get in the way.
+
+
+### Chapter 20 - The Downside of Creating Good Habits
+
+  - The upside of habits is that we can do things without thinking.
+  - The downside is that we stop paying attention to little errors.
+  - Habits + Deliberate Practice = Mastery
+  - Reflection and review is a process that allows you to remain conscious of your performance over time.
+  - The tighter we cling to an identity, the harder it becomes to grow beyond it.
+
+
+**CONCLUSION:**
+
+The secret to getting results that last is to never stop making improvements. This is a continuous process. There is no finish line. There is no permanent solution. Whenever you’re looking to improve, you can rotate through the Four Laws of Behavior Change until you find the next bottleneck. Make it obvious. Make it attractive. Make it easy. Make it satisfying. Round and round. Always looking for the next way to get 1 percent better.
+
+It’s remarkable what you can build if you just don’t stop. It’s remarkable the business you can build if you don’t stop working. It’s remarkable the body you can build if you don’t stop training. It’s remarkable the knowledge you can build if you don’t stop learning. It’s remarkable the fortune you can build if you don’t stop saving. It’s remarkable the friendships you can build if you don’t stop caring. Small habits don’t add up. They compound. That’s the power of atomic habits. Tiny changes. Remarkable results.
+
+
+Signing off with a tweet from the Author himself
+
+{% twitter https://twitter.com/JamesClear/status/1341968580280266754 %}
 
