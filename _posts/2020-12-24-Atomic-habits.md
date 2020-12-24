@@ -191,7 +191,7 @@ The following were the main takeaways for me from this Book;
   - The tighter we cling to an identity, the harder it becomes to grow beyond it.
 
 
-**CONCLUSION:**
+### CONCLUSION:
 
 The secret to getting results that last is to never stop making improvements. This is a continuous process. There is no finish line. There is no permanent solution. Whenever you’re looking to improve, you can rotate through the Four Laws of Behavior Change until you find the next bottleneck. Make it obvious. Make it attractive. Make it easy. Make it satisfying. Round and round. Always looking for the next way to get 1 percent better.
 
