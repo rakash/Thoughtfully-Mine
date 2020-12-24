@@ -11,6 +11,9 @@ title: A Summary on Atomic Habits
 -- # CHAPTERS
 -->
 
+![]({{ site.baseurl }}/images/logo.png "Cover of the Book")
+
+
 I have been wanting to read this book for quite sometime now, and after seeing plenty of good reviews from people on twitter raving about how it has changed their lifestyle, I finally spent sometime reading this book. 
 
 The following were the main takeaways for me from this from this Book;
@@ -28,35 +31,10 @@ The following were the main takeaways for me from this from this Book;
 
 ## Chapter 2
 
-You can use *italics*, **bold**, `code font text`, and create [links](https://www.markdownguide.org/cheat-sheet/). Here's a footnote [^1]. Here's a horizontal rule:
 
----
 
-## Lists
 
-Here's a list:
 
-- item 1
-- item 2
-
-And a numbered list:
-
-1. item 1
-1. item 2
-
-## Boxes and stuff
-
-> This is a quotation
-
-{% include alert.html text="You can include alert boxes" %}
-
-...and...
-
-{% include info.html text="You can include info boxes" %}
-
-## Images
-
-![]({{ site.baseurl }}/images/logo.png "fast.ai's logo")
 
 ## Code
 
