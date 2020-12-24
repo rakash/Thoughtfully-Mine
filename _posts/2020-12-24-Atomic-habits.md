@@ -3,7 +3,7 @@ toc: false
 layout: post
 description:
 comments: true
-categories: [Book Reviews]
+categories: [Book Summaries]
 title: A Summary on Atomic Habits
 ---
 
